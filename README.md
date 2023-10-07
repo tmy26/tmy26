@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 App Developer 
 -------------
-* 🌍  I'm based in Plovdiv, Bulgaria
-* 🧠  I'm learning Django
+* 🌍  Based in Plovdiv, Bulgaria
 
 ### Skills  
 
